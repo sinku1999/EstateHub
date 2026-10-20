@@ -82,6 +82,17 @@ Build and run the Spring Boot application using the project's Maven configuratio
 
 This project is developed for educational and portfolio purposes.
 
+
+## Project Status
+
+- **Development:** Completed
+- **Source Code:** Available on GitHub
+- **Deployment:** Previously deployed using Render and Railway
+- **Live Demo:** Temporarily unavailable due to database hosting limitations
+
+> The application can be configured and run locally with a MySQL database.
+
+
 ## Developer
 
 **Sinku Singh**
